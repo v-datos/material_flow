@@ -1,0 +1,256 @@
+Materials,Tonnes,Source,Year,End,Flow
+Asphalt,105.87,Town,2017,Diverted,Outgoing
+Asphalt Shingles,0.00,Town,2017,Diverted,Outgoing
+Concrete,86.45,Town,2017,Diverted,Outgoing
+Drywall,34.76,Town,2017,Diverted,Outgoing
+Glass,53.70,Town,2017,Diverted,Outgoing
+Wood Waste,177.70,Town,2017,Diverted,Outgoing
+Metal,0.00,Town,2017,Diverted,Outgoing
+Scrub & Brush,155.83,Town,2017,Diverted,Outgoing
+Grass & Yard waste,205.32,Town,2017,Diverted,Outgoing
+Clean Cover,507.49,Town,2017,Landfilled,Outgoing
+Sundry waste,466.98,Town,2017,Landfilled,Outgoing
+Asphalt,2.80,Residential,2017,Diverted,Outgoing
+Asphalt Shingles,5.38,Residential,2017,Diverted,Outgoing
+Concrete,40.68,Residential,2017,Diverted,Outgoing
+Drywall,7.61,Residential,2017,Diverted,Outgoing
+Glass,0.00,Residential,2017,Diverted,Outgoing
+Wood Waste,3.09,Residential,2017,Diverted,Outgoing
+Metal,0.38,Residential,2017,Diverted,Outgoing
+Scrub & Brush,3.27,Residential,2017,Diverted,Outgoing
+Grass & Yard waste,0.00,Residential,2017,Diverted,Outgoing
+Clean Cover,299.64,Residential,2017,Landfilled,Outgoing
+Sundry waste,86.78,Residential,2017,Landfilled,Outgoing
+Asphalt,335.20,Commercial,2017,Diverted,Outgoing
+Asphalt Shingles,69.17,Commercial,2017,Diverted,Outgoing
+Concrete,757.18,Commercial,2017,Diverted,Outgoing
+Drywall,121.68,Commercial,2017,Diverted,Outgoing
+Glass,0.00,Commercial,2017,Diverted,Outgoing
+Wood Waste,152.42,Commercial,2017,Diverted,Outgoing
+Metal,289.36,Commercial,2017,Diverted,Outgoing
+Scrub & Brush,140.31,Commercial,2017,Diverted,Outgoing
+Grass & Yard waste,16.01,Commercial,2017,Diverted,Outgoing
+Clean Cover,9207.54,Commercial,2017,Landfilled,Outgoing
+Sundry waste,3157.40,Commercial,2017,Landfilled,Outgoing
+Asphalt,160.21,Town,2018,Diverted,Outgoing
+Asphalt Shingles,0.00,Town,2018,Diverted,Outgoing
+Concrete,72.29,Town,2018,Diverted,Outgoing
+Drywall,4.98,Town,2018,Diverted,Outgoing
+Glass,93.22,Town,2018,Diverted,Outgoing
+Wood Waste,51.55,Town,2018,Diverted,Outgoing
+Metal,0.00,Town,2018,Diverted,Outgoing
+Scrub & Brush,8.39,Town,2018,Diverted,Outgoing
+Grass & Yard waste,125.50,Town,2018,Diverted,Outgoing
+Clean Cover,389.83,Town,2018,Landfilled,Outgoing
+Sundry waste,316.96,Town,2018,Landfilled,Outgoing
+Asphalt,0.53,Residential,2018,Diverted,Outgoing
+Asphalt Shingles,0.00,Residential,2018,Diverted,Outgoing
+Concrete,7.70,Residential,2018,Diverted,Outgoing
+Drywall,3.61,Residential,2018,Diverted,Outgoing
+Glass,0.00,Residential,2018,Diverted,Outgoing
+Wood Waste,7.29,Residential,2018,Diverted,Outgoing
+Metal,0.10,Residential,2018,Diverted,Outgoing
+Scrub & Brush,0.00,Residential,2018,Diverted,Outgoing
+Grass & Yard waste,0.00,Residential,2018,Diverted,Outgoing
+Clean Cover,0.81,Residential,2018,Landfilled,Outgoing
+Sundry waste,16.71,Residential,2018,Landfilled,Outgoing
+Asphalt,854.94,Commercial,2018,Diverted,Outgoing
+Asphalt Shingles,71.06,Commercial,2018,Diverted,Outgoing
+Concrete,626.84,Commercial,2018,Diverted,Outgoing
+Drywall,6.14,Commercial,2018,Diverted,Outgoing
+Glass,0.00,Commercial,2018,Diverted,Outgoing
+Wood Waste,133.94,Commercial,2018,Diverted,Outgoing
+Metal,114.58,Commercial,2018,Diverted,Outgoing
+Scrub & Brush,88.24,Commercial,2018,Diverted,Outgoing
+Grass & Yard waste,5.38,Commercial,2018,Diverted,Outgoing
+Clean Cover,13114.85,Commercial,2018,Landfilled,Outgoing
+Sundry waste,2445.87,Commercial,2018,Landfilled,Outgoing
+Asphalt,105.86,Town,2019,Diverted,Outgoing
+Asphalt Shingles,0.00,Town,2019,Diverted,Outgoing
+Concrete,117.79,Town,2019,Diverted,Outgoing
+Drywall,30.43,Town,2019,Diverted,Outgoing
+Glass,89.89,Town,2019,Diverted,Outgoing
+Wood Waste,258.08,Town,2019,Diverted,Outgoing
+Metal,2.48,Town,2019,Diverted,Outgoing
+Scrub & Brush,191.78,Town,2019,Diverted,Outgoing
+Grass & Yard waste,320.17,Town,2019,Diverted,Outgoing
+Clean Cover,452.65,Town,2019,Landfilled,Outgoing
+Sundry waste,320.17,Town,2019,Landfilled,Outgoing
+Asphalt,0.00,Residential,2019,Diverted,Outgoing
+Asphalt Shingles,2.70,Residential,2019,Diverted,Outgoing
+Concrete,7.35,Residential,2019,Diverted,Outgoing
+Drywall,0.18,Residential,2019,Diverted,Outgoing
+Glass,0.00,Residential,2019,Diverted,Outgoing
+Wood Waste,5.10,Residential,2019,Diverted,Outgoing
+Metal,1.41,Residential,2019,Diverted,Outgoing
+Scrub & Brush,0.51,Residential,2019,Diverted,Outgoing
+Grass & Yard waste,0.00,Residential,2019,Diverted,Outgoing
+Clean Cover,3.87,Residential,2019,Landfilled,Outgoing
+Sundry waste,11.46,Residential,2019,Landfilled,Outgoing
+Asphalt,1069.58,Commercial,2019,Diverted,Outgoing
+Asphalt Shingles,79.16,Commercial,2019,Diverted,Outgoing
+Concrete,991.25,Commercial,2019,Diverted,Outgoing
+Drywall,96.73,Commercial,2019,Diverted,Outgoing
+Glass,0.00,Commercial,2019,Diverted,Outgoing
+Wood Waste,332.14,Commercial,2019,Diverted,Outgoing
+Metal,299.52,Commercial,2019,Diverted,Outgoing
+Scrub & Brush,500.21,Commercial,2019,Diverted,Outgoing
+Grass & Yard waste,22.76,Commercial,2019,Diverted,Outgoing
+Clean Cover,17281.84,Commercial,2019,Landfilled,Outgoing
+Sundry waste,3086.56,Commercial,2019,Landfilled,Outgoing
+Asphalt,367.36,Town,2020,Diverted,Outgoing
+Asphalt Shingles,0.00,Town,2020,Diverted,Outgoing
+Concrete,575.23,Town,2020,Diverted,Outgoing
+Drywall,23.73,Town,2020,Diverted,Outgoing
+Glass,117.85,Town,2020,Diverted,Outgoing
+Wood Waste,134.53,Town,2020,Diverted,Outgoing
+Metal,26.28,Town,2020,Diverted,Outgoing
+Scrub & Brush,168.56,Town,2020,Diverted,Outgoing
+Grass & Yard waste,233.87,Town,2020,Diverted,Outgoing
+Clean Cover,8019.81,Town,2020,Landfilled,Outgoing
+Sundry waste,649.39,Town,2020,Landfilled,Outgoing
+Asphalt,0.00,Residential,2020,Diverted,Outgoing
+Asphalt Shingles,0.00,Residential,2020,Diverted,Outgoing
+Concrete,6.46,Residential,2020,Diverted,Outgoing
+Drywall,0.30,Residential,2020,Diverted,Outgoing
+Glass,0.00,Residential,2020,Diverted,Outgoing
+Wood Waste,1.33,Residential,2020,Diverted,Outgoing
+Metal,0.78,Residential,2020,Diverted,Outgoing
+Scrub & Brush,0.30,Residential,2020,Diverted,Outgoing
+Grass & Yard waste,0.00,Residential,2020,Diverted,Outgoing
+Clean Cover,15.14,Residential,2020,Landfilled,Outgoing
+Sundry waste,8.10,Residential,2020,Landfilled,Outgoing
+Asphalt,510.96,Commercial,2020,Diverted,Outgoing
+Asphalt Shingles,24.66,Commercial,2020,Diverted,Outgoing
+Concrete,716.38,Commercial,2020,Diverted,Outgoing
+Drywall,161.67,Commercial,2020,Diverted,Outgoing
+Glass,0.00,Commercial,2020,Diverted,Outgoing
+Wood Waste,193.24,Commercial,2020,Diverted,Outgoing
+Metal,163.93,Commercial,2020,Diverted,Outgoing
+Scrub & Brush,133.95,Commercial,2020,Diverted,Outgoing
+Grass & Yard waste,3.29,Commercial,2020,Diverted,Outgoing
+Clean Cover,14713.97,Commercial,2020,Landfilled,Outgoing
+Sundry waste,1692.98,Commercial,2020,Landfilled,Outgoing
+Asphalt,49.66,Town,2021,Diverted,Outgoing
+Asphalt Shingles,0.00,Town,2021,Diverted,Outgoing
+Concrete,106.92,Town,2021,Diverted,Outgoing
+Drywall,19.38,Town,2021,Diverted,Outgoing
+Glass,76.16,Town,2021,Diverted,Outgoing
+Wood Waste,168.37,Town,2021,Diverted,Outgoing
+Metal,1.22,Town,2021,Diverted,Outgoing
+Scrub & Brush,121.94,Town,2021,Diverted,Outgoing
+Grass & Yard waste,242.76,Town,2021,Diverted,Outgoing
+Clean Cover,192.98,Town,2021,Landfilled,Outgoing
+Sundry waste,448.69,Town,2021,Landfilled,Outgoing
+Asphalt,7.76,Residential,2021,Diverted,Outgoing
+Asphalt Shingles,0.25,Residential,2021,Diverted,Outgoing
+Concrete,7.76,Residential,2021,Diverted,Outgoing
+Drywall,0.00,Residential,2021,Diverted,Outgoing
+Glass,0.00,Residential,2021,Diverted,Outgoing
+Wood Waste,0.91,Residential,2021,Diverted,Outgoing
+Metal,0.92,Residential,2021,Diverted,Outgoing
+Scrub & Brush,0.30,Residential,2021,Diverted,Outgoing
+Grass & Yard waste,0.00,Residential,2021,Diverted,Outgoing
+Clean Cover,19.11,Residential,2021,Landfilled,Outgoing
+Sundry waste,11.67,Residential,2021,Landfilled,Outgoing
+Asphalt,1127.00,Commercial,2021,Diverted,Outgoing
+Asphalt Shingles,26.85,Commercial,2021,Diverted,Outgoing
+Concrete,947.94,Commercial,2021,Diverted,Outgoing
+Drywall,39.79,Commercial,2021,Diverted,Outgoing
+Glass,0.00,Commercial,2021,Diverted,Outgoing
+Wood Waste,153.98,Commercial,2021,Diverted,Outgoing
+Metal,54.02,Commercial,2021,Diverted,Outgoing
+Scrub & Brush,154.64,Commercial,2021,Diverted,Outgoing
+Grass & Yard waste,23.26,Commercial,2021,Diverted,Outgoing
+Clean Cover,19266.85,Commercial,2021,Landfilled,Outgoing
+Sundry waste,1325.36,Commercial,2021,Landfilled,Outgoing
+Refundable Containers,0,Mix,2020,To be Diverted,Incoming
+Scrub & Brush,147,Mix,2020,To be Diverted,Incoming
+Sundry waste,253.9,Mix,2020,To be Landfilled,Incoming
+Mattresses/boxspring,56.6,Mix,2020,To be Diverted,Incoming
+Hazardous Waste,0,Mix,2020,To be Diverted,Incoming
+Electronics Recycling,0,Mix,2020,To be Diverted,Incoming
+Glass,82.84,Mix,2020,To be Diverted,Incoming
+Drywall,11.93,Mix,2020,To be Diverted,Incoming
+Tires,18,Mix,2020,To be Diverted,Incoming
+Concrete,34.5,Mix,2020,To be Diverted,Incoming
+Used Motor Oil,0,Mix,2020,To be Diverted,Incoming
+Wood Waste,153,Mix,2020,To be Diverted,Incoming
+Metal,165,Mix,2020,Diverted,Outgoing
+Mixed Plastics,149,Mix,2020,To be Diverted,Incoming
+PTW-Pressure Treated Wood,10,Mix,2020,To be Landfilled,Incoming
+Grass & Yard waste,236,Mix,2020,To be Diverted,Incoming
+Shipping Pallets,53.25,Mix,2020,To be Diverted,Incoming
+Refundable Containers,0,Mix,2021,To be Diverted,Incoming
+Scrub & Brush,151,Mix,2021,To be Diverted,Incoming
+Sundry waste,318.4,Mix,2021,To be Landfilled,Incoming
+Mattresses/boxspring,31.87,Mix,2021,To be Diverted,Incoming
+Hazardous Waste,0,Mix,2021,To be Diverted,Incoming
+Electronics Recycling,27.3,Mix,2021,To be Diverted,Incoming
+Glass,74.73,Mix,2021,To be Diverted,Incoming
+Drywall,14.7,Mix,2021,To be Diverted,Incoming
+Tires,21,Mix,2021,To be Diverted,Incoming
+Concrete,100.5,Mix,2021,To be Diverted,Incoming
+Used Motor Oil,0,Mix,2021,To be Diverted,Incoming
+Wood Waste,148,Mix,2021,To be Diverted,Incoming
+Metal,161,Mix,2021,Diverted,Outgoing
+Mixed Plastics,116,Mix,2021,To be Diverted,Incoming
+PTW-Pressure Treated Wood,11,Mix,2021,To be Landfilled,Incoming
+Grass & Yard waste,192,Mix,2021,To be Diverted,Incoming
+Shipping Pallets,48.1,Mix,2021,To be Diverted,Incoming
+Food,450.00,Mix,2017,To be Diverted,Incoming
+Food,720.00,Mix,2018,To be Diverted,Incoming
+Food,949.00,Mix,2019,To be Diverted,Incoming
+Food,543.00,Mix,2020,To be Diverted,Incoming
+Food,647.00,Mix,2021,To be Diverted,Incoming
+Cardboard,830.00,Mix,2017,To be Diverted,Incoming
+Cardboard,858.00,Mix,2018,To be Diverted,Incoming
+Cardboard,825.00,Mix,2019,To be Diverted,Incoming
+Cardboard,488.00,Mix,2020,To be Diverted,Incoming
+Cardboard,531.00,Mix,2021,To be Diverted,Incoming
+Mixed Plastics,101.00,Mix,2017,To be Diverted,Incoming
+Mixed Plastics,148.00,Mix,2018,To be Diverted,Incoming
+Mixed Plastics,172.00,Mix,2019,To be Diverted,Incoming
+Glass,49.00,Mix,2017,To be Diverted,Incoming
+Glass,72.00,Mix,2018,To be Diverted,Incoming
+Glass,110.00,Mix,2019,To be Diverted,Incoming
+Paper,256.00,Mix,2017,To be Diverted,Incoming
+Paper,329.00,Mix,2018,To be Diverted,Incoming
+Paper,300.00,Mix,2019,To be Diverted,Incoming
+Paper,264.00,Mix,2020,To be Diverted,Incoming
+Paper,238.00,Mix,2021,To be Diverted,Incoming
+Mattresses/boxspring,40.00,Mix,2017,To be Diverted,Incoming
+Mattresses/boxspring,43.00,Mix,2018,To be Diverted,Incoming
+Mattresses/boxspring,45.00,Mix,2019,To be Diverted,Incoming
+Wood Waste,220.00,Mix,2017,To be Diverted,Incoming
+Wood Waste,205.00,Mix,2018,To be Diverted,Incoming
+Wood Waste,222.00,Mix,2019,To be Diverted,Incoming
+Metal,107.00,Mix,2017,To be Diverted,Incoming
+Metal,92.00,Mix,2018,To be Diverted,Incoming
+Metal,104.00,Mix,2019,To be Diverted,Incoming
+Tires,17.00,Mix,2017,To be Diverted,Incoming
+Tires,23.00,Mix,2018,To be Diverted,Incoming
+Tires,36.00,Mix,2019,To be Diverted,Incoming
+Grass & Yard waste,124.00,Mix,2017,To be Diverted,Incoming
+Grass & Yard waste,224.00,Mix,2018,To be Diverted,Incoming
+Grass & Yard waste,286.00,Mix,2019,To be Diverted,Incoming
+Unwanted item pick up,124.00,Residential,2017,To be Landfilled,Incoming
+Unwanted item pick up,134.00,Residential,2018,To be Landfilled,Incoming
+Unwanted item pick up,131.00,Residential,2019,To be Landfilled,Incoming
+Unwanted item pick up,138.00,Residential,2020,To be Landfilled,Incoming
+Unwanted item pick up,111.00,Residential,2021,To be Landfilled,Incoming
+Town run,139.00,Mix,2017,To be Landfilled,Incoming
+Town run,239.00,Mix,2018,To be Landfilled,Incoming
+Town run,130.00,Mix,2019,To be Landfilled,Incoming
+Town run,97.00,Mix,2020,To be Landfilled,Incoming
+Town run,89.00,Mix,2021,To be Landfilled,Incoming
+Sundry waste,105.00,Mix,2017,To be Landfilled,Incoming
+Sundry waste,56.00,Mix,2018,To be Landfilled,Incoming
+Sundry waste,305.00,Mix,2019,To be Landfilled,Incoming
+Garbage,4819.00,Mix,2017,To be Landfilled,Incoming
+Garbage,4638.00,Mix,2018,To be Landfilled,Incoming
+Garbage,4522.00,Mix,2019,To be Landfilled,Incoming
+Garbage,3167.00,Mix,2020,To be Landfilled,Incoming
+Garbage,3041.00,Mix,2021,To be Landfilled,Incoming
+Metal,88.00,Mix,2020,To be Diverted,Incoming
+Metal,88.00,Mix,2021,To be Diverted,Incoming
